@@ -1,3 +1,1 @@
-# jenkins_demo
-tranhuubinh
-..
+tranhuubinh 
